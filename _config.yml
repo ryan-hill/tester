@@ -38,3 +38,5 @@ auto: true # automatically update your jekyll
 server: true # runs a local server
 exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
 
+
+theme: jekyll-theme-slate
